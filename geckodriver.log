@@ -451,3 +451,118 @@ JavaScript error: chrome://marionette/content/listener.js, line 1001: NS_ERROR_F
 JavaScript error: chrome://marionette/content/listener.js, line 1001: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIWebProgress.removeProgressListener]
 [Child 616] ###!!! ABORT: Aborting on channel error.: file /builds/slave/m-rel-m64-00000000000000000000/build/src/ipc/glue/MessageChannel.cpp, line 2056
 [Child 616] ###!!! ABORT: Aborting on channel error.: file /builds/slave/m-rel-m64-00000000000000000000/build/src/ipc/glue/MessageChannel.cpp, line 2056
+1487556394703	geckodriver	INFO	Listening on 127.0.0.1:50727
+1487556395649	mozprofile::profile	INFO	Using profile path /var/folders/yl/z03wfk1d74g7vmm5zwm6mnzh0000gn/T/rust_mozprofile.cF4J8gJF2Zvc
+1487556395651	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin
+1487556395654	geckodriver::marionette	INFO	Connecting to Marionette on localhost:50736
+1487556396211	Marionette	INFO	Listening on port 50736
+JavaScript error: chrome://marionette/content/listener.js, line 1001: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIWebProgress.removeProgressListener]
+[Child 1388] ###!!! ABORT: Aborting on channel error.: file /builds/slave/m-rel-m64-00000000000000000000/build/src/ipc/glue/MessageChannel.cpp, line 2056
+[Child 1388] ###!!! ABORT: Aborting on channel error.: file /builds/slave/m-rel-m64-00000000000000000000/build/src/ipc/glue/MessageChannel.cpp, line 2056
+1487556399416	geckodriver	INFO	Listening on 127.0.0.1:50793
+1487556400360	mozprofile::profile	INFO	Using profile path /var/folders/yl/z03wfk1d74g7vmm5zwm6mnzh0000gn/T/rust_mozprofile.CXE9GClkNlJX
+1487556400362	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin
+1487556400365	geckodriver::marionette	INFO	Connecting to Marionette on localhost:50802
+1487556400918	Marionette	INFO	Listening on port 50802
+[Child 1393] ###!!! ABORT: Aborting on channel error.: file /builds/slave/m-rel-m64-00000000000000000000/build/src/ipc/glue/MessageChannel.cpp, line 2056
+[Child 1393] ###!!! ABORT: Aborting on channel error.: file /builds/slave/m-rel-m64-00000000000000000000/build/src/ipc/glue/MessageChannel.cpp, line 2056
+1487556445268	geckodriver	INFO	Listening on 127.0.0.1:50842
+1487556446200	mozprofile::profile	INFO	Using profile path /var/folders/yl/z03wfk1d74g7vmm5zwm6mnzh0000gn/T/rust_mozprofile.N6DpvIZ8O9rC
+1487556446201	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin
+1487556446204	geckodriver::marionette	INFO	Connecting to Marionette on localhost:50851
+1487556446741	Marionette	INFO	Listening on port 50851
+JavaScript error: chrome://marionette/content/listener.js, line 1001: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIWebProgress.removeProgressListener]
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+[Child 1412] ###!!! ABORT: Aborting on channel error.: file /builds/slave/m-rel-m64-00000000000000000000/build/src/ipc/glue/MessageChannel.cpp, line 2056
+[Child 1412] ###!!! ABORT: Aborting on channel error.: file /builds/slave/m-rel-m64-00000000000000000000/build/src/ipc/glue/MessageChannel.cpp, line 2056
+1487556449457	geckodriver	INFO	Listening on 127.0.0.1:50904
+1487556450401	mozprofile::profile	INFO	Using profile path /var/folders/yl/z03wfk1d74g7vmm5zwm6mnzh0000gn/T/rust_mozprofile.hYmq7fmiPgqA
+1487556450402	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin
+1487556450406	geckodriver::marionette	INFO	Connecting to Marionette on localhost:50913
+1487556450969	Marionette	INFO	Listening on port 50913
+JavaScript error: chrome://marionette/content/listener.js, line 1001: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIWebProgress.removeProgressListener]
+[Child 1415] ###!!! ABORT: Aborting on channel error.: file /builds/slave/m-rel-m64-00000000000000000000/build/src/ipc/glue/MessageChannel.cpp, line 2056
+[Child 1415] ###!!! ABORT: Aborting on channel error.: file /builds/slave/m-rel-m64-00000000000000000000/build/src/ipc/glue/MessageChannel.cpp, line 2056
+1487556655718	geckodriver	INFO	Listening on 127.0.0.1:50995
+1487556656646	mozprofile::profile	INFO	Using profile path /var/folders/yl/z03wfk1d74g7vmm5zwm6mnzh0000gn/T/rust_mozprofile.B5DHMzUKEDG5
+1487556656648	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin
+1487556656651	geckodriver::marionette	INFO	Connecting to Marionette on localhost:51004
+1487556657237	Marionette	INFO	Listening on port 51004
+JavaScript error: chrome://marionette/content/listener.js, line 1001: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIWebProgress.removeProgressListener]
+[Child 1497] ###!!! ABORT: Aborting on channel error.: file /builds/slave/m-rel-m64-00000000000000000000/build/src/ipc/glue/MessageChannel.cpp, line 2056
+[Child 1497] ###!!! ABORT: Aborting on channel error.: file /builds/slave/m-rel-m64-00000000000000000000/build/src/ipc/glue/MessageChannel.cpp, line 2056
+1487556660010	geckodriver	INFO	Listening on 127.0.0.1:51063
+1487556660947	mozprofile::profile	INFO	Using profile path /var/folders/yl/z03wfk1d74g7vmm5zwm6mnzh0000gn/T/rust_mozprofile.UBrJYc0f2V0Y
+1487556660948	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin
+1487556660951	geckodriver::marionette	INFO	Connecting to Marionette on localhost:51072
+1487556661520	Marionette	INFO	Listening on port 51072
+JavaScript error: chrome://marionette/content/listener.js, line 1001: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIWebProgress.removeProgressListener]
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+[Child 1502] ###!!! ABORT: Aborting on channel error.: file /builds/slave/m-rel-m64-00000000000000000000/build/src/ipc/glue/MessageChannel.cpp, line 2056
+[Child 1502] ###!!! ABORT: Aborting on channel error.: file /builds/slave/m-rel-m64-00000000000000000000/build/src/ipc/glue/MessageChannel.cpp, line 2056
+1487556683191	geckodriver	INFO	Listening on 127.0.0.1:51135
+1487556684126	mozprofile::profile	INFO	Using profile path /var/folders/yl/z03wfk1d74g7vmm5zwm6mnzh0000gn/T/rust_mozprofile.x2yCTp567LL7
+1487556684128	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin
+1487556684131	geckodriver::marionette	INFO	Connecting to Marionette on localhost:51144
+1487556684715	Marionette	INFO	Listening on port 51144
+JavaScript error: chrome://marionette/content/listener.js, line 1001: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIWebProgress.removeProgressListener]
+[Child 1516] ###!!! ABORT: Aborting on channel error.: file /builds/slave/m-rel-m64-00000000000000000000/build/src/ipc/glue/MessageChannel.cpp, line 2056
+[Child 1516] ###!!! ABORT: Aborting on channel error.: file /builds/slave/m-rel-m64-00000000000000000000/build/src/ipc/glue/MessageChannel.cpp, line 2056
+1487556687424	geckodriver	INFO	Listening on 127.0.0.1:51201
+1487556688379	mozprofile::profile	INFO	Using profile path /var/folders/yl/z03wfk1d74g7vmm5zwm6mnzh0000gn/T/rust_mozprofile.nRLHj44BehiK
+1487556688380	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin
+1487556688384	geckodriver::marionette	INFO	Connecting to Marionette on localhost:51210
+1487556688939	Marionette	INFO	Listening on port 51210
+JavaScript error: chrome://marionette/content/listener.js, line 1001: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIWebProgress.removeProgressListener]
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+[Child 1521] ###!!! ABORT: Aborting on channel error.: file /builds/slave/m-rel-m64-00000000000000000000/build/src/ipc/glue/MessageChannel.cpp, line 2056
+[Child 1521] ###!!! ABORT: Aborting on channel error.: file /builds/slave/m-rel-m64-00000000000000000000/build/src/ipc/glue/MessageChannel.cpp, line 2056
+1487556720332	geckodriver	INFO	Listening on 127.0.0.1:51263
+1487556721276	mozprofile::profile	INFO	Using profile path /var/folders/yl/z03wfk1d74g7vmm5zwm6mnzh0000gn/T/rust_mozprofile.mn4B1dJKLIbQ
+1487556721278	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin
+1487556721281	geckodriver::marionette	INFO	Connecting to Marionette on localhost:51272
+1487556721826	Marionette	INFO	Listening on port 51272
+JavaScript error: chrome://marionette/content/listener.js, line 1001: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIWebProgress.removeProgressListener]
+[Child 1531] ###!!! ABORT: Aborting on channel error.: file /builds/slave/m-rel-m64-00000000000000000000/build/src/ipc/glue/MessageChannel.cpp, line 2056
+[Child 1531] ###!!! ABORT: Aborting on channel error.: file /builds/slave/m-rel-m64-00000000000000000000/build/src/ipc/glue/MessageChannel.cpp, line 2056
+1487556724760	geckodriver	INFO	Listening on 127.0.0.1:51335
+1487556725706	mozprofile::profile	INFO	Using profile path /var/folders/yl/z03wfk1d74g7vmm5zwm6mnzh0000gn/T/rust_mozprofile.RVlLC7A7NfK5
+1487556725707	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin
+1487556725710	geckodriver::marionette	INFO	Connecting to Marionette on localhost:51344
+1487556726326	Marionette	INFO	Listening on port 51344
+JavaScript error: chrome://marionette/content/listener.js, line 1001: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIWebProgress.removeProgressListener]
+[Child 1539] ###!!! ABORT: Aborting on channel error.: file /builds/slave/m-rel-m64-00000000000000000000/build/src/ipc/glue/MessageChannel.cpp, line 2056
+[Child 1539] ###!!! ABORT: Aborting on channel error.: file /builds/slave/m-rel-m64-00000000000000000000/build/src/ipc/glue/MessageChannel.cpp, line 2056
+1487556816690	geckodriver	INFO	Listening on 127.0.0.1:51406
+1487556817637	mozprofile::profile	INFO	Using profile path /var/folders/yl/z03wfk1d74g7vmm5zwm6mnzh0000gn/T/rust_mozprofile.otDeoSd6zL6t
+1487556817638	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin
+1487556817641	geckodriver::marionette	INFO	Connecting to Marionette on localhost:51415
+1487556818182	Marionette	INFO	Listening on port 51415
+JavaScript error: chrome://marionette/content/listener.js, line 1001: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIWebProgress.removeProgressListener]
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+[Child 1558] ###!!! ABORT: Aborting on channel error.: file /builds/slave/m-rel-m64-00000000000000000000/build/src/ipc/glue/MessageChannel.cpp, line 2056
+[Child 1558] ###!!! ABORT: Aborting on channel error.: file /builds/slave/m-rel-m64-00000000000000000000/build/src/ipc/glue/MessageChannel.cpp, line 2056
+1487556821830	geckodriver	INFO	Listening on 127.0.0.1:51478
+1487556822774	mozprofile::profile	INFO	Using profile path /var/folders/yl/z03wfk1d74g7vmm5zwm6mnzh0000gn/T/rust_mozprofile.GFzLBqC2PICJ
+1487556822776	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin
+1487556822781	geckodriver::marionette	INFO	Connecting to Marionette on localhost:51488
+1487556823454	Marionette	INFO	Listening on port 51488
+JavaScript error: chrome://marionette/content/listener.js, line 1001: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIWebProgress.removeProgressListener]
+[Child 1563] ###!!! ABORT: Aborting on channel error.: file /builds/slave/m-rel-m64-00000000000000000000/build/src/ipc/glue/MessageChannel.cpp, line 2056
+[Child 1563] ###!!! ABORT: Aborting on channel error.: file /builds/slave/m-rel-m64-00000000000000000000/build/src/ipc/glue/MessageChannel.cpp, line 2056
+1487559590752	geckodriver	INFO	Listening on 127.0.0.1:52107
+1487559591713	mozprofile::profile	INFO	Using profile path /var/folders/yl/z03wfk1d74g7vmm5zwm6mnzh0000gn/T/rust_mozprofile.MxZP2jrwy7l9
+1487559591714	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin
+1487559591718	geckodriver::marionette	INFO	Connecting to Marionette on localhost:52116
+1487559592257	Marionette	INFO	Listening on port 52116
+JavaScript error: chrome://marionette/content/listener.js, line 1001: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIWebProgress.removeProgressListener]
+[Child 2124] ###!!! ABORT: Aborting on channel error.: file /builds/slave/m-rel-m64-00000000000000000000/build/src/ipc/glue/MessageChannel.cpp, line 2056
+[Child 2124] ###!!! ABORT: Aborting on channel error.: file /builds/slave/m-rel-m64-00000000000000000000/build/src/ipc/glue/MessageChannel.cpp, line 2056
+1487559595010	geckodriver	INFO	Listening on 127.0.0.1:52171
+1487559595950	mozprofile::profile	INFO	Using profile path /var/folders/yl/z03wfk1d74g7vmm5zwm6mnzh0000gn/T/rust_mozprofile.Kj4zcVm2ZVft
+1487559595951	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin
+1487559595954	geckodriver::marionette	INFO	Connecting to Marionette on localhost:52180
+1487559597002	Marionette	INFO	Listening on port 52180
+JavaScript error: chrome://marionette/content/listener.js, line 1001: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIWebProgress.removeProgressListener]
+[Child 2129] ###!!! ABORT: Aborting on channel error.: file /builds/slave/m-rel-m64-00000000000000000000/build/src/ipc/glue/MessageChannel.cpp, line 2056
+[Child 2129] ###!!! ABORT: Aborting on channel error.: file /builds/slave/m-rel-m64-00000000000000000000/build/src/ipc/glue/MessageChannel.cpp, line 2056
