@@ -566,3 +566,43 @@ JavaScript error: chrome://marionette/content/listener.js, line 1001: NS_ERROR_F
 JavaScript error: chrome://marionette/content/listener.js, line 1001: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIWebProgress.removeProgressListener]
 [Child 2129] ###!!! ABORT: Aborting on channel error.: file /builds/slave/m-rel-m64-00000000000000000000/build/src/ipc/glue/MessageChannel.cpp, line 2056
 [Child 2129] ###!!! ABORT: Aborting on channel error.: file /builds/slave/m-rel-m64-00000000000000000000/build/src/ipc/glue/MessageChannel.cpp, line 2056
+1487573453734	geckodriver	INFO	Listening on 127.0.0.1:59445
+1487573454689	mozprofile::profile	INFO	Using profile path /var/folders/wb/ryht1c_53x38czxxh3dxblnw0000gn/T/rust_mozprofile.5NRX2BIn3Fi7
+1487573454690	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin
+1487573454693	geckodriver::marionette	INFO	Connecting to Marionette on localhost:59454
+[warn] kq_init: detected broken kqueue; not using.: Undefined error: 0
+1487573455175	Marionette	INFO	Listening on port 59454
+[warn] kq_init: detected broken kqueue; not using.: Undefined error: 0
+JavaScript error: chrome://marionette/content/listener.js, line 999: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIWebProgress.removeProgressListener]
+[Child 90276] ###!!! ABORT: Aborting on channel error.: file /builds/slave/m-rel-m64-00000000000000000000/build/src/ipc/glue/MessageChannel.cpp, line 2056
+[Child 90276] ###!!! ABORT: Aborting on channel error.: file /builds/slave/m-rel-m64-00000000000000000000/build/src/ipc/glue/MessageChannel.cpp, line 2056
+1487573458195	geckodriver	INFO	Listening on 127.0.0.1:59509
+1487573459140	mozprofile::profile	INFO	Using profile path /var/folders/wb/ryht1c_53x38czxxh3dxblnw0000gn/T/rust_mozprofile.4DcQpDBNTFf3
+1487573459141	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin
+1487573459143	geckodriver::marionette	INFO	Connecting to Marionette on localhost:59518
+[warn] kq_init: detected broken kqueue; not using.: Undefined error: 0
+1487573459611	Marionette	INFO	Listening on port 59518
+[warn] kq_init: detected broken kqueue; not using.: Undefined error: 0
+JavaScript error: chrome://marionette/content/listener.js, line 999: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIWebProgress.removeProgressListener]
+[Child 90312] ###!!! ABORT: Aborting on channel error.: file /builds/slave/m-rel-m64-00000000000000000000/build/src/ipc/glue/MessageChannel.cpp, line 2056
+[Child 90312] ###!!! ABORT: Aborting on channel error.: file /builds/slave/m-rel-m64-00000000000000000000/build/src/ipc/glue/MessageChannel.cpp, line 2056
+1487573522999	geckodriver	INFO	Listening on 127.0.0.1:59573
+1487573523967	mozprofile::profile	INFO	Using profile path /var/folders/wb/ryht1c_53x38czxxh3dxblnw0000gn/T/rust_mozprofile.m7cPe7AWa7IL
+1487573523968	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin
+1487573523971	geckodriver::marionette	INFO	Connecting to Marionette on localhost:59582
+[warn] kq_init: detected broken kqueue; not using.: Undefined error: 0
+1487573524385	Marionette	INFO	Listening on port 59582
+[warn] kq_init: detected broken kqueue; not using.: Undefined error: 0
+JavaScript error: chrome://marionette/content/listener.js, line 999: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIWebProgress.removeProgressListener]
+[Child 90375] ###!!! ABORT: Aborting on channel error.: file /builds/slave/m-rel-m64-00000000000000000000/build/src/ipc/glue/MessageChannel.cpp, line 2056
+[Child 90375] ###!!! ABORT: Aborting on channel error.: file /builds/slave/m-rel-m64-00000000000000000000/build/src/ipc/glue/MessageChannel.cpp, line 2056
+1487573528974	geckodriver	INFO	Listening on 127.0.0.1:59635
+1487573529929	mozprofile::profile	INFO	Using profile path /var/folders/wb/ryht1c_53x38czxxh3dxblnw0000gn/T/rust_mozprofile.vQrjgsoRJRHO
+1487573529930	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin
+1487573529933	geckodriver::marionette	INFO	Connecting to Marionette on localhost:59644
+[warn] kq_init: detected broken kqueue; not using.: Undefined error: 0
+1487573530357	Marionette	INFO	Listening on port 59644
+[warn] kq_init: detected broken kqueue; not using.: Undefined error: 0
+JavaScript error: chrome://marionette/content/listener.js, line 999: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIWebProgress.removeProgressListener]
+[Child 90380] ###!!! ABORT: Aborting on channel error.: file /builds/slave/m-rel-m64-00000000000000000000/build/src/ipc/glue/MessageChannel.cpp, line 2056
+[Child 90380] ###!!! ABORT: Aborting on channel error.: file /builds/slave/m-rel-m64-00000000000000000000/build/src/ipc/glue/MessageChannel.cpp, line 2056
